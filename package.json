@@ -1,0 +1,13 @@
+{
+  "name": "NewProjectName",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.7",
+    "axios": "^1.7.9",
+    "react-native": "0.76.5"
+  }
+}
